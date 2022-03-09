@@ -278,6 +278,20 @@ li {
   padding: 2rem 0.5rem;
 }
 
+.more-work{
+  background-color: var(--main-blue);
+  padding: 1.5rem;
+  border-radius: 2rem;
+  position: relative;
+  top: 5rem;
+}
+.more-work:hover{
+  transform: scale(1.5);
+  transition: all 0.3s linear;
+  background-color: white;
+  color: 0c1821;
+}
+
 /* PROJECT SECTION ENDED */
 /* CONTACT SECTION  */
 
